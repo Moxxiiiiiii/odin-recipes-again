@@ -1,0 +1,31 @@
+body {
+    background-color: honeydew;
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    margin: 16px auto;
+    background-color: white;
+    width: 20%;
+    padding: 8px;
+    border: 3px solid black;
+}
+
+div {
+    background-color: white;
+    border: 3px solid black;
+    width: 70%;
+    margin: 4px auto;
+
+}
+
+ul {
+    margin: -6px auto 4px auto;
+    width: 30%;
+    display: inline-block;
+}
+
+.Last-box {
+    width: 60%;
+}
